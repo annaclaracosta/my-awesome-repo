@@ -1,7 +1,7 @@
 # My Awesome Repo
-"This repository is the most awesome on GitHub.
+This repository is the most awesome on GitHub.
 
-"![Profile Views](https://komarev.com/ghpvc/?annaclaracosta=annaclaracosta)"
+![](https://komarev.com/ghpvc/?username=annaclaracosta)
 
 ## Projects
 
